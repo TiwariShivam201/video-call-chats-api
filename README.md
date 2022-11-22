@@ -1,6 +1,6 @@
 # video-call-chats-api
 
-<img src="https://user-images.githubusercontent.com/81271552/203243295-6d296514-6832-4704-8798-34337897e59b.jpeg" width="50" height="50">
+<img src="https://user-images.githubusercontent.com/81271552/203243295-6d296514-6832-4704-8798-34337897e59b.jpeg" width="100" height="100">
 ![image2](https://user-images.githubusercontent.com/81271552/203243291-a854f832-7eda-401b-b7ee-6907f3e8adf2.jpeg)
 ![umage3](https://user-images.githubusercontent.com/81271552/203243292-78c2a5f7-114e-4d8d-a322-db929f8bfa4e.jpeg)
 ![image4](https://user-images.githubusercontent.com/81271552/203243290-237b01e6-e200-41de-84f3-1334d11a2d48.jpeg)
