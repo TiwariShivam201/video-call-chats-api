@@ -15,7 +15,7 @@ Real-time video immerses people in the sights and sounds of human connections, k
   <li>Chats with your co-host</li>
 </ul>
 
-Required : agora account for the video call,golang ,firebase
+Required : agora account for the video call,golang
 
 <h4>Frontend<a href="https://github.com/TiwariShivam201/video-call-chats-UI"> App</a></h4>
 <hr>
