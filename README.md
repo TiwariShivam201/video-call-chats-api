@@ -7,7 +7,7 @@
 
 Real-time video immerses people in the sights and sounds of human connections, keeping them engaged in your app longer.
 
-<h6>Here’s the list of main features in MockTrade:</h6>
+<h6>Here’s the list of main features in Video call:</h6>
 <ul>
   <li>Unlimited video calling</li>
   <li>Mute or Unmute yourself</li>
@@ -18,6 +18,7 @@ Real-time video immerses people in the sights and sounds of human connections, k
 Required : agora account for the video call,golang ,firebase
 
 <h4>Frontend<a href="https://github.com/TiwariShivam201/video-call-chats-UI"> App</a></h4>
+<hr>
 this is frontend app 
 
 
